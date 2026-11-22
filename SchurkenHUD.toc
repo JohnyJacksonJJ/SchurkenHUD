@@ -1,0 +1,8 @@
+## Interface: 16001, 11508, 11507
+## Title: SchurkenHUD
+## Notes: Gegner-Leben (Zahl + %) und Combopunkte über der Namensplakette, eigener Lebensbalken im Kampf.
+## Author: Erto
+## Version: 1.0
+## SavedVariables: SchurkenHUDDB
+
+SchurkenHUD.lua
